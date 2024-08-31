@@ -5,5 +5,5 @@
  <project path="kernel/samsung/a10s" name="samsung-mt6765-devs/android_kernel_samsung_a10s" remote="github" revision="lineage-21" />
  <project path="vendor/samsung/a10s" name="samsung-mt6765-devs/android_vendor_samsung_a10s" remote="github" revision="lineage-21" />
  <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" remote="github" revision="lineage-21" />
- <project path="prebuilts/clang/host/linux-x86/clang-r428724" name="SpiceOS-Beta/android_prebuilts_clang_host_linux-x86_clang-7612306" remote="github" revision="11" />
+ <project path="prebuilts/clang/host/linux-x86/clang-r428724" name="samsung-mt6765-devs/android_prebuilts_clang_host_linux-x86_clang-r428724" remote="github" revision="lineage-21" />
 </manifest>
